@@ -60,3 +60,4 @@ function draw(){
 
     bird.display();
 }
+Platform Added
