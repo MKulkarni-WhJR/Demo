@@ -60,4 +60,4 @@ function draw(){
 
     bird.display();
 }
-  This is for Manjusha Platform Added
+  This is for Manjusha Platform Added <----- edited using notepad
